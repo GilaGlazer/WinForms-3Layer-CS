@@ -1,0 +1,10 @@
+	29/04/2025 01:59:33	Dal.ProductImplementation.ReadAll:	start readAll in product
+		29/04/2025 01:59:33	Dal.ProductImplementation.Deserialize:	start deserialize in product
+		29/04/2025 01:59:34	Dal.ProductImplementation.Deserialize:	end deserialize in product
+	29/04/2025 01:59:34	Dal.ProductImplementation.ReadAll:	end readAll in product
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	start readAll in sale
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	end readAll in sale
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	start readAll in sale
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	end readAll in sale
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	start readAll in sale
+	29/04/2025 01:59:34	Dal.SaleImplementation.ReadAll:	end readAll in sale

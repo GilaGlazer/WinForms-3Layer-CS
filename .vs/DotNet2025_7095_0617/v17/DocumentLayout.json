@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA929E3-CCF7-462F-9B03-A82748959BB7}|BL\\BL.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\bl\\blimplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA929E3-CCF7-462F-9B03-A82748959BB7}|BL\\BL.csproj|solutionrelative:bl\\blimplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\ui\\ordertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\ordertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\ui\\productsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\productsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\ui\\salesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\salesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\ui\\salesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\salesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\ui\\ordertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\ordertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\ui\\productsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\productsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|z:\\b\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\c#\\dotnet2025_7095_0617\\ui\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\ui\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3894231D-BED9-4807-9709-CC6BA64DDCE8}|UI\\UI.csproj|solutionrelative:ui\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderImplementation.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\BL\\BlImplementation\\OrderImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\BlImplementation\\OrderImplementation.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\BL\\BlImplementation\\OrderImplementation.cs",
+              "RelativeToolTip": "BL\\BlImplementation\\OrderImplementation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:33:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderForm.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderForm.cs",
+              "RelativeToolTip": "UI\\OrderForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:26:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderToCustomer.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderToCustomer.cs",
+              "RelativeDocumentMoniker": "UI\\OrderToCustomer.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderToCustomer.cs",
+              "RelativeToolTip": "UI\\OrderToCustomer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderForm.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderForm.cs [Design]",
+              "RelativeToolTip": "UI\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:28.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesMenu.cs [Design]",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\SalesMenu.cs",
+              "RelativeDocumentMoniker": "UI\\SalesMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\SalesMenu.cs [Design]",
+              "RelativeToolTip": "UI\\SalesMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:06:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesMenu.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\SalesMenu.cs",
+              "RelativeDocumentMoniker": "UI\\SalesMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\SalesMenu.cs",
+              "RelativeToolTip": "UI\\SalesMenu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:07:15.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsMenu.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\ProductsMenu.cs",
+              "RelativeDocumentMoniker": "UI\\ProductsMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\ProductsMenu.cs",
+              "RelativeToolTip": "UI\\ProductsMenu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:06:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderToCustomer.cs [Design]",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderToCustomer.cs",
+              "RelativeDocumentMoniker": "UI\\OrderToCustomer.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\OrderToCustomer.cs [Design]",
+              "RelativeToolTip": "UI\\OrderToCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersMenu.cs",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\CustomersMenu.cs",
+              "RelativeDocumentMoniker": "UI\\CustomersMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\CustomersMenu.cs",
+              "RelativeToolTip": "UI\\CustomersMenu.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAO0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:20:42.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersMenu.cs [Design]",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\CustomersMenu.cs",
+              "RelativeDocumentMoniker": "UI\\CustomersMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\CustomersMenu.cs [Design]",
+              "RelativeToolTip": "UI\\CustomersMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:20:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsMenu.cs [Design]",
+              "DocumentMoniker": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\ProductsMenu.cs",
+              "RelativeDocumentMoniker": "UI\\ProductsMenu.cs",
+              "ToolTip": "Z:\\B\\\u05D2\u05DC\u05D6\u05E8 \u05D2\u05D9\u05DC\u05D4\\C#\\DotNet2025_7095_0617\\UI\\ProductsMenu.cs [Design]",
+              "RelativeToolTip": "UI\\ProductsMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:06:46.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

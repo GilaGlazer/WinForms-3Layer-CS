@@ -1,0 +1,80 @@
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\Tools.deps.json
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\Tools.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\Tools.pdb
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\Tools.deps.json
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\Tools.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\Tools.pdb
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+Z:\B\גלזר גילה\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\Tools.deps.json
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\Tools.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\Tools.pdb
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.deps.json
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.deps.json
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\Tools.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\Tools.deps.json
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\Tools.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\Tools.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\Tools.deps.json
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\Tools.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\Tools.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\refint\Tools.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\Tools.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\Tools\obj\Debug\ref\Tools.dll

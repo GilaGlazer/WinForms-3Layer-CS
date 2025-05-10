@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Customer>
+		<Id>67890123</Id>
+		<NameCustomer>טליה אברהם</NameCustomer>
+		<Address>ראשון לציון, רחוב יהודה הלוי 7</Address>
+		<Phone>049-6789012</Phone>
+	</Customer>
+	<Customer>
+		<Id>56789012</Id>
+		<NameCustomer>מאור סלע</NameCustomer>
+		<Address>חיפה, רחוב הגליל 12</Address>
+		<Phone>050-5678901</Phone>
+	</Customer>
+	<Customer>
+		<Id>89012345</Id>
+		<NameCustomer>יוסף כהן</NameCustomer>
+		<Address>תל אביב, רחוב אלנבי 5</Address>
+		<Phone>052-8901234</Phone>
+	</Customer>
+	<Customer>
+		<Id>12345678</Id>
+		<NameCustomer>שרה לוי</NameCustomer>
+		<Address>ירושלים, רחוב יפו 10</Address>
+		<Phone>053-1234567</Phone>
+	</Customer>
+	<Customer>
+		<Id>23456789</Id>
+		<NameCustomer>דוד מזרחי</NameCustomer>
+		<Address>באר שבע, רחוב העצמאות 20</Address>
+		<Phone>054-2345678</Phone>
+	</Customer>
+	<Customer>
+		<Id>34567890</Id>
+		<NameCustomer>רבקה ישראלי</NameCustomer>
+		<Address>קריית מוצקין, רחוב הרצל 15</Address>
+		<Phone>055-3456789</Phone>
+	</Customer>
+	<Customer>
+		<Id>45678901</Id>
+		<NameCustomer>אברהם פרידמן</NameCustomer>
+		<Address>פתח תקווה, רחוב ז'בוטינסקי 30</Address>
+		<Phone>056-4567890</Phone>
+	</Customer>
+	<Customer>
+		<Id>56789023</Id>
+		<NameCustomer>חנה גולדשטיין</NameCustomer>
+		<Address>כפר סבא, רחוב ויצמן 25</Address>
+		<Phone>057-5678902</Phone>
+	</Customer>
+	<Customer>
+		<Id>67890234</Id>
+		<NameCustomer>משה ברק</NameCustomer>
+		<Address>רעננה, רחוב אחוזה 40</Address>
+		<Phone>058-6789023</Phone>
+	</Customer>
+	<Customer>
+		<Id>78901234</Id>
+		<NameCustomer>רות בן-ציון</NameCustomer>
+		<Address>אשדוד, רחוב הרצל 50</Address>
+		<Phone>059-7890123</Phone>
+	</Customer>
+	<Customer>
+		<Id>89012356</Id>
+		<NameCustomer>מיכאל דנון</NameCustomer>
+		<Address>הרצליה, רחוב בן גוריון 8</Address>
+		<Phone>051-8901235</Phone>
+	</Customer>
+	<Customer>
+		<Id>90123467</Id>
+		<NameCustomer>יעל קציר</NameCustomer>
+		<Address>קריית אונו, רחוב הנשיא 12</Address>
+		<Phone>052-9012346</Phone>
+	</Customer>
+	<Customer>
+		<Id>12345679</Id>
+		<NameCustomer>אורן חיון</NameCustomer>
+		<Address>בת ים, רחוב העצמאות 15</Address>
+		<Phone>053-1234568</Phone>
+	</Customer>
+	<Customer>
+		<Id>23456790</Id>
+		<NameCustomer>דני שטרן</NameCustomer>
+		<Address>אשקלון, רחוב העמק 18</Address>
+		<Phone>054-2345679</Phone>
+	</Customer>
+	<Customer>
+		<Id>34567891</Id>
+		<NameCustomer>שירה כהן</NameCustomer>
+		<Address>נהריה, רחוב הים 22</Address>
+		<Phone>055-3456789</Phone>
+	</Customer>
+	<Customer>
+		<Id>45678912</Id>
+		<NameCustomer>אלון גבע</NameCustomer>
+		<Address>עכו, רחוב הארזים 10</Address>
+		<Phone>056-4567891</Phone>
+	</Customer>
+	<Customer>
+		<Id>56789034</Id>
+		<NameCustomer>ליאת ארז</NameCustomer>
+		<Address>כפר יונה, רחוב הדקלים 5</Address>
+		<Phone>057-5678903</Phone>
+	</Customer>
+	<Customer>
+		<Id>67890245</Id>
+		<NameCustomer>מאיה גל</NameCustomer>
+		<Address>מודיעין, רחוב השדרה 7</Address>
+		<Phone>058-6789024</Phone>
+	</Customer>
+	<Customer>
+		<Id>78901256</Id>
+		<NameCustomer>יונתן הררי</NameCustomer>
+		<Address>תל מונד, רחוב חירות 9</Address>
+		<Phone>059-7890125</Phone>
+	</Customer>
+	<Customer>
+		<Id>89012367</Id>
+		<NameCustomer>נעמי שמש</NameCustomer>
+		<Address>ירושלים, רחוב הנביאים 11</Address>
+		<Phone>051-8901236</Phone>
+	</Customer>
+	<Customer>
+		<Id>90123478</Id>
+		<NameCustomer>איתן לוי</NameCustomer>
+		<Address>חולון, רחוב גולומב 14</Address>
+		<Phone>052-9012347</Phone>
+	</Customer>
+	<Customer>
+		<Id>12345680</Id>
+		<NameCustomer>נועה פרץ</NameCustomer>
+		<Address>נתניה, רחוב שמואל הנגיד 16</Address>
+		<Phone>053-1234569</Phone>
+	</Customer>
+	<Customer>
+		<Id>23456791</Id>
+		<NameCustomer>עדי גולן</NameCustomer>
+		<Address>רמת גן, רחוב ביאליק 18</Address>
+		<Phone>054-2345670</Phone>
+	</Customer>
+	<Customer>
+		<Id>34567892</Id>
+		<NameCustomer>דניאל כהן</NameCustomer>
+		<Address>קריית גת, רחוב הפלדה 20</Address>
+		<Phone>055-3456780</Phone>
+	</Customer>
+	<Customer>
+		<Id>45678913</Id>
+		<NameCustomer>רונית גפן</NameCustomer>
+		<Address>כרמיאל, רחוב הזית 30</Address>
+		<Phone>056-4567892</Phone>
+	</Customer>
+	<Customer>
+		<Id>56789045</Id>
+		<NameCustomer>אמיר בר</NameCustomer>
+		<Address>רחובות, רחוב הנשיאים 12</Address>
+		<Phone>057-5678904</Phone>
+	</Customer>
+	<Customer>
+		<Id>67890256</Id>
+		<NameCustomer>הילה רוזן</NameCustomer>
+		<Address>מגדל העמק, רחוב השקמה 15</Address>
+		<Phone>058-6789025</Phone>
+	</Customer>
+	<Customer>
+		<Id>78901267</Id>
+		<NameCustomer>עמית שדה</NameCustomer>
+		<Address>בית שמש, רחוב הרימון 10</Address>
+		<Phone>059-7890126</Phone>
+	</Customer>
+	<Customer>
+		<Id>89012378</Id>
+		<NameCustomer>שני ברוך</NameCustomer>
+		<Address>רמת השרון, רחוב הנרייטה סולד 8</Address>
+		<Phone>051-8901237</Phone>
+	</Customer>
+	<Customer>
+		<Id>90123489</Id>
+		<NameCustomer>נועם חזן</NameCustomer>
+		<Address>קריית מלאכי, רחוב השקד 18</Address>
+		<Phone>052-9012348</Phone>
+	</Customer>
+	<Customer>
+		<Id>12345681</Id>
+		<NameCustomer>מיכל קדם</NameCustomer>
+		<Address>יהוד, רחוב העצמאות 22</Address>
+		<Phone>053-1234570</Phone>
+	</Customer>
+	<Customer>
+		<Id>23456792</Id>
+		<NameCustomer>איילת נבו</NameCustomer>
+		<Address>נס ציונה, רחוב השחר 25</Address>
+		<Phone>054-2345671</Phone>
+	</Customer>
+	<Customer>
+		<Id>34567893</Id>
+		<NameCustomer>רועי רון</NameCustomer>
+		<Address>יקנעם, רחוב האלון 19</Address>
+		<Phone>055-3456781</Phone>
+	</Customer>
+	<Customer>
+		<Id>45678914</Id>
+		<NameCustomer>אור שפיר</NameCustomer>
+		<Address>מעלה אדומים, רחוב החורש 12</Address>
+		<Phone>056-4567893</Phone>
+	</Customer>
+	<Customer>
+		<Id>56789056</Id>
+		<NameCustomer>ליאורה ברוך</NameCustomer>
+		<Address>אילת, רחוב התמרים 5</Address>
+		<Phone>057-5678905</Phone>
+	</Customer>
+	<Customer>
+		<Id>67890267</Id>
+		<NameCustomer>דפנה לוין</NameCustomer>
+		<Address>רמת אפעל, רחוב חביבה רייך 7</Address>
+		<Phone>058-6789026</Phone>
+	</Customer>
+	<Customer>
+		<Id>78901278</Id>
+		<NameCustomer>שחר מלכה</NameCustomer>
+		<Address>גבעתיים, רחוב ויצמן 10</Address>
+		<Phone>059-7890127</Phone>
+	</Customer>
+</ArrayOfCustomer>

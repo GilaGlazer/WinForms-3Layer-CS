@@ -1,0 +1,98 @@
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.exe
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.deps.json
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.runtimeconfig.json
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.CustomersMenu.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.Home.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.ManagerMenu.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderForm.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderToCustomer.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.ProductsMenu.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.SalesMenu.resources
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CopyComplete
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\refint\UI.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\ref\UI.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.exe
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.deps.json
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.runtimeconfig.json
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\UI.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.CustomersMenu.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.Home.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.ManagerMenu.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderForm.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderToCustomer.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.ProductsMenu.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.SalesMenu.resources
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.Up2Date
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\refint\UI.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\UI\obj\Debug\ref\UI.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\UI.exe
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\UI.deps.json
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\UI.runtimeconfig.json
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\UI.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\UI.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.CustomersMenu.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.Home.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.ManagerMenu.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderForm.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderToCustomer.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.ProductsMenu.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.SalesMenu.resources
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\refint\UI.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\UI\obj\Debug\ref\UI.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\UI.exe
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\UI.deps.json
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\UI.runtimeconfig.json
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\UI.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\UI.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.Home.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.ManagerMenu.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderForm.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.OrderToCustomer.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.ProductsMenu.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.SalesMenu.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.csproj.CopyComplete
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\refint\UI.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\ref\UI.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\Images\home.jpg
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.Properties.Resources.resources
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\obj\Debug\UI.CustomersMenu.resources

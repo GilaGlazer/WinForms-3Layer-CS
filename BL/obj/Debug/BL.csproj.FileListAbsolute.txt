@@ -1,0 +1,91 @@
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\BL.deps.json
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\BL.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\bin\BL.pdb
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CopyComplete
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+C:\תיכנות\יד\פריש-C#\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\BL.deps.json
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\BL.dll
+Z:\B\גלזר גילה\DotNet2025_7095_0617\bin\BL.pdb
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\גלזר גילה\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\BL.deps.json
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\BL.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\bin\BL.pdb
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+Z:\B\גלזר גילה\New folder\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.deps.json
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CopyComplete
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+C:\תיכנות\יד\פריש-C#\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.deps.json
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\bin\BL.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.Up2Date
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+D:\מסמכים\לימודים\המורה פריש\פרויקט מעודכן\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\BL.deps.json
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\BL.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\bin\BL.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+Z:\B\גלזר גילה\C#\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\BL.deps.json
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\BL.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\bin\BL.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.csproj.CopyComplete
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\refint\BL.dll
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\BL.pdb
+C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\BL\obj\Debug\ref\BL.dll

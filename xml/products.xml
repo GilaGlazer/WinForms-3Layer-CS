@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Product>
+		<Id>1</Id>
+		<NameProduct>Classic Necklace</NameProduct>
+		<Category>Necklaces</Category>
+		<Price>150</Price>
+		<Amount>20</Amount>
+	</Product>
+	<Product>
+		<Id>2</Id>
+		<NameProduct>Elegant Bracelet</NameProduct>
+		<Category>Bracelets</Category>
+		<Price>120</Price>
+		<Amount>15</Amount>
+	</Product>
+	<Product>
+		<Id>3</Id>
+		<NameProduct>Diamond Ring</NameProduct>
+		<Category>Rings</Category>
+		<Price>1000</Price>
+		<Amount>10</Amount>
+	</Product>
+	<Product>
+		<Id>4</Id>
+		<NameProduct>Pearl Earrings</NameProduct>
+		<Category>Earrings</Category>
+		<Price>200</Price>
+		<Amount>25</Amount>
+	</Product>
+	<Product>
+		<Id>5</Id>
+		<NameProduct>Gold Watch</NameProduct>
+		<Category>Watches</Category>
+		<Price>2500</Price>
+		<Amount>5</Amount>
+	</Product>
+	<Product>
+		<Id>6</Id>
+		<NameProduct>Silver Necklace</NameProduct>
+		<Category>Necklaces</Category>
+		<Price>180</Price>
+		<Amount>30</Amount>
+	</Product>
+	<Product>
+		<Id>7</Id>
+		<NameProduct>Rose Gold Bracelet</NameProduct>
+		<Category>Bracelets</Category>
+		<Price>300</Price>
+		<Amount>20</Amount>
+	</Product>
+	<Product>
+		<Id>8</Id>
+		<NameProduct>Luxury Ring</NameProduct>
+		<Category>Rings</Category>
+		<Price>1500</Price>
+		<Amount>8</Amount>
+	</Product>
+	<Product>
+		<Id>9</Id>
+		<NameProduct>Sapphire Earrings</NameProduct>
+		<Category>Earrings</Category>
+		<Price>400</Price>
+		<Amount>12</Amount>
+	</Product>
+	<Product>
+		<Id>10</Id>
+		<NameProduct>Digital Watch</NameProduct>
+		<Category>Watches</Category>
+		<Price>800</Price>
+		<Amount>10</Amount>
+	</Product>
+</ArrayOfProduct>

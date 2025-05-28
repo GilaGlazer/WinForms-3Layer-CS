@@ -32,7 +32,6 @@
             customers = new Button();
             products = new Button();
             sales = new Button();
-            deleteLogFiles = new Button();
             SuspendLayout();
             // 
             // customers
@@ -68,17 +67,6 @@
             sales.UseVisualStyleBackColor = true;
             sales.Click += sales_Click;
             // 
-            // deleteLogFiles
-            // 
-            deleteLogFiles.Location = new Point(727, 415);
-            deleteLogFiles.Margin = new Padding(3, 4, 3, 4);
-            deleteLogFiles.Name = "deleteLogFiles";
-            deleteLogFiles.Size = new Size(154, 67);
-            deleteLogFiles.TabIndex = 3;
-            deleteLogFiles.Text = "למחיקת קבצי הלוג";
-            deleteLogFiles.UseVisualStyleBackColor = true;
-            deleteLogFiles.Click += deleteLogFiles_Click;
-            // 
             // ManagerMenu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -86,7 +74,6 @@
             BackgroundImage = Properties.Resources.bg;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(914, 600);
-            Controls.Add(deleteLogFiles);
             Controls.Add(sales);
             Controls.Add(products);
             Controls.Add(customers);
@@ -103,6 +90,5 @@
         private Button customers;
         private Button products;
         private Button sales;
-        private Button deleteLogFiles;
     }
 }

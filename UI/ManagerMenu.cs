@@ -87,21 +87,11 @@ namespace UI
             sales.Size = buttonSize;
             sales.Location = new Point(startX, centerY); // זז 320 פיקסלים רק פעם אחת
 
-
-            deleteLogFiles.Font = new Font("Arial", 18, FontStyle.Bold);
-            deleteLogFiles.BackColor = Color.Transparent;
-            deleteLogFiles.ForeColor = Color.Black;
-            deleteLogFiles.FlatStyle = FlatStyle.Flat;
-            deleteLogFiles.FlatAppearance.BorderSize = 3;
-            deleteLogFiles.FlatAppearance.BorderColor = Color.Black;
-            deleteLogFiles.Size = buttonSize;
-            deleteLogFiles.Location = new Point(150, 800); // זז 320 פיקסלים רק פעם אחת
-
         }
 
         private void deleteLogFiles_Click(object sender, EventArgs e)
         {
-            
+
         }
     }
 }

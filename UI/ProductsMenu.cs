@@ -286,7 +286,6 @@ namespace UI
                 MessageBox.Show("אירעה שגיאה בעת שליפת הלקוח" + ex.Message,
                                 "שגיאה", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            //לבדוק שעובד בטוח
         }
 
         //סינון לפי קטגוריה

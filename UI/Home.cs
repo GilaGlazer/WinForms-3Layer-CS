@@ -24,32 +24,6 @@ namespace UI
 
         private void Home_Load(object sender, EventArgs e)
         {
-
-
-            //string imagePath = @"C:\תיכנות\יד\פריש-C#\סימנווווווווווו\DotNet2025_7095_0617\UI\bin\Images\Home.jpg";
-            //this.BackgroundImage = Image.FromFile(imagePath);
-            //this.BackgroundImageLayout = ImageLayout.Stretch; // לשנות את גודל התמונה לפי הצורך
-
-            //string imagePath = Path.Combine(Application.StartupPath, "Images", "Home.jpg");
-            //if (File.Exists(imagePath))
-            //{
-            //    this.BackgroundImage = Image.FromFile(imagePath);
-            //    this.BackgroundImageLayout = ImageLayout.Stretch;
-            //}
-            //else
-            //{
-            //    MessageBox.Show("התמונה לא נמצאה בנתיב: " + imagePath);
-            //}
-
-            //נותן זמן לעיצוב להתרענן
-            //this.Visible = false;
-            //this.SuspendLayout();
-
-
-            //this.ResumeLayout();
-            //this.PerformLayout();
-            //this.Visible = true;
-
         }
 
         private void StyleButtons()

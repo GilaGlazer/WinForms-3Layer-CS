@@ -41,7 +41,6 @@ namespace UI
 
                 sumOrder.Enabled = false;
                 InitGrid();
-
             }
             catch
             {
@@ -352,10 +351,49 @@ namespace UI
                 Visible = false
             });
 
+            var btnColumn = new DataGridViewButtonColumn
+            {
+                HeaderText = "מבצעים",
+                Name = "ShowPromotions",
+                Text = "הצג",
+                UseColumnTextForButtonValue = true
+            };
+
+            cardGrid.Columns.Add(btnColumn);
+
             // קביעת מקור הנתונים לרשימה ריקה מהסוג המתאים
             cardGrid.DataSource = new List<ProductInOrder>();
         }
 
+        private void cardGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex < 0 || e.ColumnIndex < 0)
+                return;
+
+            if (cardGrid.Columns[e.ColumnIndex].Name == "ShowPromotions")
+            {
+                var product = cardGrid.Rows[e.RowIndex].DataBoundItem as ProductInOrder;
+                if (product != null)
+                {
+                    if (product.ListSaleInProduct != null && product.ListSaleInProduct.Any())
+                    {
+                        // יוצרים תיאור של כל המבצעים
+                        string promotions = string.Join("\n", product.ListSaleInProduct
+                            .Where(s => s != null)
+                            .Select(s => s.ToString())); // מניח שיש ToString למחלקת SaleInProduct
+
+                        MessageBox.Show(promotions, $"מבצעים עבור {product.NameProductInOrder}",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    else
+                    {
+                        MessageBox.Show("אין מבצעים זמינים למוצר זה.",
+                            $"מבצעים עבור {product.NameProductInOrder}",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+            }
+        }
 
     }
 }

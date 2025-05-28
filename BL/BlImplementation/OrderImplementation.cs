@@ -1,14 +1,13 @@
 ﻿
-
-
 using BlApi;
+using BO;
 
 namespace BlImplementation;
 
 internal class OrderImplementation : BlApi.IOrder
 {
     private DalApi.IDal _dal = DalApi.Factory.Get;
-    public List<BO.SaleInProduct> SearchSaleForProduct(int id, bool isPreferred,int amount)
+    public List<BO.SaleInProduct> SearchSaleForProduct(int id, bool isPreferred, int amount)
     {
         try
         {
@@ -31,42 +30,55 @@ internal class OrderImplementation : BlApi.IOrder
         }
     }
 
+   
+
     public void CalcTotalPriceForProduct(BO.ProductInOrder productInOrderBO)
     {
-
         try
         {
             if (productInOrderBO.ListSaleInProduct == null)
                 productInOrderBO.ListSaleInProduct = new List<BO.SaleInProduct?>();
+
+            // איפוס מחיר סופי
+            productInOrderBO.FinalPrice = 0;
+
             int? count = productInOrderBO.Amount ?? 0;
             List<BO.SaleInProduct> activeSales = new List<BO.SaleInProduct>();
-            foreach (var saleInProduct in productInOrderBO.ListSaleInProduct)
+
+            // מיון המבצעים לפי מחיר ליחידה הכי משתלם
+            var sortedSales = productInOrderBO.ListSaleInProduct
+                .Where(s => s != null && s.Amount > 0)
+                .OrderBy(s => (double)s.Price / s.Amount)
+                .ToList();
+
+            foreach (var sale in sortedSales)
             {
                 if (count <= 0)
                     break;
-                // בדיקה אם המכנה שונה מאפס
-                if (saleInProduct?.Amount > 0)
-                {
-                    if (count >= saleInProduct.Amount)
-                    {
-                        productInOrderBO.FinalPrice += count / saleInProduct.Amount * saleInProduct.Price;
-                        count -= count / saleInProduct.Amount * saleInProduct.Amount;
 
-                        activeSales.Add(saleInProduct);
-                    }
+                int applicableTimes = (int)(count / sale.Amount);
+                if (applicableTimes > 0)
+                {
+                    productInOrderBO.FinalPrice += applicableTimes * sale.Price;
+                    count -= applicableTimes * sale.Amount;
+                    activeSales.Add(sale);
                 }
             }
 
-            productInOrderBO.ListSaleInProduct = activeSales;
+            // מחיר רגיל לשארית
             if (count > 0)
                 productInOrderBO.FinalPrice += count * productInOrderBO.BasePrice;
+
+            // שמירת רק המבצעים שיושמו
+            productInOrderBO.ListSaleInProduct = activeSales;
         }
         catch (Exception e)
         {
-            throw new Exception(e.Message);
+            throw new Exception("שגיאה בחישוב מחיר למוצר: " + e.Message);
         }
     }
-  
+
+
 
     public void CalcTotalPrice(BO.Order order)
     {
@@ -82,11 +94,11 @@ internal class OrderImplementation : BlApi.IOrder
     }
     public List<BO.SaleInProduct?> AddProductToOrder(BO.Order order, int idProductToAdd, int amount, bool isPreferred)
     {
-        try 
+        try
         {
             if (order.ListProductInOrder == null)
                 order.ListProductInOrder = new List<BO.ProductInOrder?>();
-            if(amount == 0)
+            if (amount == 0)
                 throw new Exception("כמות שגויה");
 
             DO.Product productDO = _dal.Product.Read(idProductToAdd);
@@ -97,9 +109,9 @@ internal class OrderImplementation : BlApi.IOrder
                 if (productDO == null)
                     throw new Exception("לא נמצא מוצר ");
 
-                if (productDO.Amount>=amount)
+                if (productDO.Amount >= amount)
                 {
-                    productBO = new BO.ProductInOrder(idProductToAdd, productDO.NameProduct, productDO.Price??0, amount);
+                    productBO = new BO.ProductInOrder(idProductToAdd, productDO.NameProduct, productDO.Price ?? 0, amount);
                     order.ListProductInOrder.Add(productBO);
                 }
                 else
@@ -109,7 +121,7 @@ internal class OrderImplementation : BlApi.IOrder
             }
             else
             {
-                if(productBO.Amount+amount<=productDO.Amount)
+                if (productBO.Amount + amount <= productDO.Amount)
                 {
                     productBO.Amount += amount;
                 }
@@ -118,14 +130,15 @@ internal class OrderImplementation : BlApi.IOrder
                     throw new Exception("אין במלאי");
                 }
             }
-            productBO.ListSaleInProduct = SearchSaleForProduct(idProductToAdd, isPreferred, amount);
+            productBO.ListSaleInProduct = SearchSaleForProduct(idProductToAdd, isPreferred, productBO.Amount ?? 0);
+
             CalcTotalPriceForProduct(productBO);
             CalcTotalPrice(order);
             // רשימת המבצעים שמומשו למוצר זה.
             foreach (var item in productBO.ListSaleInProduct)
             {
-               Console.WriteLine(item);
-               //Console.WriteLine($"IdSaleInProduct = {item.IdSaleInProduct}, Amount = {item.Amount}, Price = {item.Price}, IsSaleForAllCustomers = {item.IsSaleForAllCustomers}");
+                Console.WriteLine(item);
+                //Console.WriteLine($"IdSaleInProduct = {item.IdSaleInProduct}, Amount = {item.Amount}, Price = {item.Price}, IsSaleForAllCustomers = {item.IsSaleForAllCustomers}");
 
             }
             return productBO.ListSaleInProduct;
@@ -138,7 +151,6 @@ internal class OrderImplementation : BlApi.IOrder
         }
     }
 
-   
     public void DoOrder(BO.Order order)
     {
         try
@@ -159,7 +171,5 @@ internal class OrderImplementation : BlApi.IOrder
         }
     }
 
-   
 
-   
 }

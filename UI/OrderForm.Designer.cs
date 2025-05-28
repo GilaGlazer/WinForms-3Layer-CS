@@ -20,6 +20,7 @@
             base.Dispose(disposing);
         }
 
+
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -87,9 +88,9 @@
             // 
             listProductsInputAdd.DropDownStyle = ComboBoxStyle.DropDownList;
             listProductsInputAdd.FormattingEnabled = true;
-            listProductsInputAdd.Location = new Point(93, 78);
+            listProductsInputAdd.Location = new Point(57, 78);
             listProductsInputAdd.Name = "listProductsInputAdd";
-            listProductsInputAdd.Size = new Size(202, 45);
+            listProductsInputAdd.Size = new Size(238, 45);
             listProductsInputAdd.TabIndex = 24;
             // 
             // addProductToOrder
@@ -104,7 +105,7 @@
             // 
             // amountToOrderProduct
             // 
-            amountToOrderProduct.Location = new Point(96, 194);
+            amountToOrderProduct.Location = new Point(57, 194);
             amountToOrderProduct.Name = "amountToOrderProduct";
             amountToOrderProduct.Size = new Size(150, 43);
             amountToOrderProduct.TabIndex = 18;
@@ -238,12 +239,13 @@
             // 
             cardGrid.BackgroundColor = Color.White;
             cardGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            cardGrid.Location = new Point(229, 219);
+            cardGrid.Location = new Point(92, 219);
             cardGrid.Name = "cardGrid";
             cardGrid.RowHeadersWidth = 51;
             cardGrid.RowTemplate.Height = 29;
-            cardGrid.Size = new Size(557, 602);
+            cardGrid.Size = new Size(694, 602);
             cardGrid.TabIndex = 24;
+            cardGrid.CellContentClick += cardGrid_CellContentClick;
             // 
             // sumOrder
             // 
